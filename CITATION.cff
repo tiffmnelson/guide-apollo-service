@@ -1,10 +1,39 @@
-cff-version: 0.0.0
-message: "Please cite as below."
+cff-version: 1.2.0
+title: Australian Apollo Service Documentation
 authors:
-  - family-names: [family name goes here]
-    given-names: [given names go here]
-    orcid: [ORCID goes here]
-title: "Title of repository goes here"
-version: 0.0.0
-doi: [DOI goes here]
-date-released: YYYY-MM-DD
+  - family-names: Nelson
+    given-names: Tiff
+    orcid: https://orcid.org/0000-0002-5341-312X
+    affiliation: University of Melbourne
+  - family-names: Thang
+    given-names: Mike
+    affiliation: University of Queensland
+  - family-names: Gonzalez
+    given-names: Efren
+    affiliation: University of Melbourne
+  - family-names: Hyde
+    given-names: Cameron
+    orcid: https://orcid.org/0000-0002-5913-9766
+    affiliation: Queensland Cyber Infrastructure Foundation
+  - family-names: Ward
+    given-names: Nigel
+    orcid: https://orcid.org/0000-0002-8283-6279
+    affiliation: University of Queensland
+  - family-names: Phippard
+    given-names: Lisa
+    orcid: https://orcid.org/0000-0001-8198-9735
+    affiliation: University of Melbourne
+  - family-names: Manos
+    given-names: Steven
+    affiliation: University of Melbourne
+
+version: 1.0.0
+date-released: 2024-01-15
+repository-code: https://github.com/tiffmnelson/guide-apollo-service
+license: CC-BY-4.0
+keywords:
+  - genome annotation
+  - Apollo
+  - JBrowse
+  - bioinformatics
+  - Australian BioCommons
