@@ -1,17 +1,28 @@
-############################
-### List of affiliations ###
-############################
+- key: unimelb
+  name: University of Melbourne
+  logo: https://www.unimelb.edu.au/
 
-### see https://github.com/ELIXIR-Belgium/elixir-toolkit-theme
+- key: uq
+  name: University of Queensland
+  logo: https://www.uq.edu.au/
 
-#########################################################################################################
-### add affiliations below and use the name(s) in the relevant metadata sections or code on each page ###
-#########################################################################################################
+- key: qcif
+  name: Queensland Cyber Infrastructure Foundation
+  logo: https://www.qcif.edu.au/
 
-### add new affiliations below as needed
+- key: biocommons
+  name: Australian BioCommons
+  logo: https://www.biocommons.org.au/
 
-- name: Australian BioCommons
-  image_url: /assets/img/main_logo.png
-  expose: true
-  type: infrastructure
-  url: https://www.biocommons.org.au/
+- key: pawsey
+  name: Pawsey Supercomputing Research Centre
+  logo: https://www.pawsey.org.au/
+
+- key: ardc
+  name: Australian Research Data Commons
+  logo: https://ardc.edu.au/
+
+- key: aarnet
+  name: AARNet
+  logo: https://www.aarnet.edu.au/
+
