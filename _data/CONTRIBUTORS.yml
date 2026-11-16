@@ -1,22 +1,36 @@
+- name: Tiff Nelson
+  github: tiffmnelson
+  orcid: 0000-0002-5341-312X
+  affiliation: unimelb
 
-############################
-### List of contributors ###
-############################
+- name: Mike Thang
+  github: mthang
+  orcid: null
+  affiliation: uq
 
-### see https://github.com/ELIXIR-Belgium/elixir-toolkit-theme
+- name: Efren Gonzalez
+  github: chefren
+  orcid: null
+  affiliation: unimelb
 
-#############################################################################################################################################
-### add maintainers/contributors below and use their name in the contributors metadata section on each page they have contributed towards ###
-#############################################################################################################################################
+- name: Cameron Hyde
+  github: neoformit
+  orcid: 0000-0002-5913-9766
+  affiliation: qcif
 
-# an example contributor is included below
-# example roles include "lead", "first-author", "author", "editor", "workflow-tester"
+- name: Nigel Ward
+  github: nigelward
+  orcid: 0000-0002-8283-6279
+  affiliation: uq
 
-#Johan Gustafsson:
-#    git: supernord
-#    email: johan@biocommons.org.au
-#    orcid: 0000-0002-2977-5032
-#    role: author
-#    affiliation: Australian BioCommons / University of Melbourne
+- name: Lisa Phippard
+  github: null
+  orcid: 0000-0001-8198-9735
+  affiliation: unimelb
+
+- name: Steven Manos
+  github: smanosmxm
+  orcid: null
+  affiliation: unimelb
 
 
