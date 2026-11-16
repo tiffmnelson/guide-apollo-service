@@ -1,14 +1,20 @@
-#subitems:
-#  - title: About
-#    url: /index
-#  - title: Standard example page
-#    url: /example_page
-#  - title: Workflow How-to Guide example pages
-#    subitems:
-#      - title: Example workflow guide page
-#        url: /example_bioinformatics_workflow_page
-#      - title: Example workflow documentation page
-#        url: /example_workflow_documentation_page
-#  - title: Contributors
-#    url: /contributors
+subitems:
+  - title: Accessing the Service
+    url: /guide-apollo-service/pages/accessing-the-service
+  - title: Loading Genomes
+    url: /guide-apollo-service/pages/loading-genomes
+  - title: Manual Annotation
+    url: /guide-apollo-service/pages/manual-annotation
+  - title: JBrowse Visualisation
+    url: /guide-apollo-service/pages/jbrowse-visualisation
+  - title: Exporting & Sharing
+    url: /guide-apollo-service/pages/exporting-sharing
+  - title: FAQ
+    url: /guide-apollo-service/pages/faq
+  - title: Contact
+    url: /guide-apollo-service/pages/contact
+  - title: About
+    url: /guide-apollo-service/about
+  - title: Contributors
+    url: /guide-apollo-service/contributors
   
